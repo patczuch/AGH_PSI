@@ -1,0 +1,1 @@
+Zadania z kursu Podstawy Sztucznej Inteligencji na AGH
